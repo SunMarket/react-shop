@@ -1,2 +1,2 @@
 Basic React shop with API!
-https://sunmarket.github.io/react-shop
+[DEMO](https://sunmarket.github.io/react-shop)
